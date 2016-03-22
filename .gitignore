@@ -1,0 +1,17 @@
+*.pyc
+*.pid
+*.db
+*.out
+*.log
+*django.log*
+*upload/*
+*storage/*
+*csv/*
+settings_local.py
+env
+*.sublime/*
+*.vagrant/*
+*.venv/*
+__pycache__
+ssh.sh
+sshfs.sh
