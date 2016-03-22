@@ -11,7 +11,7 @@ settings_local.py
 env
 *.sublime/*
 *.vagrant/*
-*.venv/*
+*venv/*
 __pycache__
 ssh.sh
 sshfs.sh
